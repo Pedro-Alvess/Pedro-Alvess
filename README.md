@@ -1,6 +1,6 @@
 ## Olá! Eu sou Pedro Henrique 👋
 
-- 🌱 Estudando Json
+- 🌱 Estudando Python
 - 😄 Pronomes: ele/dele
 
 <div align="center">
